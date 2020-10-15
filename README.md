@@ -10,7 +10,7 @@ IMDB dataset are chose to do the text classification task.  You can download it 
 
 Glove.2B.200d are used as the pretrained word-vectors. You can download it on https://nlp.stanford.edu/projects/glove/
 
-## USAGE
+## Usage
 
 - Run CNN Model
 
