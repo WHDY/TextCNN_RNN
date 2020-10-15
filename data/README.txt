@@ -1,0 +1,1 @@
+you can get IMDB dataset from http://ai.stanford.edu/~amaas/data/sentiment/.

@@ -1,0 +1,1 @@
+you can get the pretrained word-vectors from https://nlp.stanford.edu/projects/glove/.
