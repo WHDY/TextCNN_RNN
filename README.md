@@ -15,12 +15,12 @@ Glove.2B.200d are used as the pretrained word-vectors. You can download it on ht
 - Run CNN Model
 
 ```
-python train_test.py --model TextCNN
+python train_test.py --model CNN
 ```
 
 - Run RNN Model
 
 ```
-python train_test.py --model TextRNN
+python train_test.py --model LSTM
 ```
 
